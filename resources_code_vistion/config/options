@@ -1,0 +1,16 @@
+_________________________________________________________________
+|Options               |Systems              |Command            |
+|                      |                     |                   |
+|1:)Social Engineering |Windows,Linux,Android|use exploit_social |
+|2:)Web Site Clone     |Windows,Linux,Android|use web_clone      |
+|3:)Web Console        |Windows,Linux,Android|use web_console    |
+|4:)Shodan Search      |Windows,Linux,Android|use shodan_search  |
+|5:)Threaten           |Windows,Linux,Android|use web_threaten   |
+|6:)Virus Attack       |Windows,Linux,Android|use exploit_virus  |
+|7:)Seeker-Master      |Linux,Android        |use exploit_seeker |
+|8:)Web Page Attack    |Windows,Linux,Android|use web_page_attack|
+|9:)Requests Tools     |Windows,Linux,Android|use py_tools       |
+|10:)Ngrok             |Linux,Android        |use ngrok          |
+|11:)Get Ip Adress     |Linux,Windows,Android|use web_ip         |
+|12:)Global Positioning|Linux,Windows,Android|use web_gp         |
+|______________________|_____________________|___________________|

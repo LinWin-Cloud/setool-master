@@ -1,0 +1,15 @@
+
+|操作               系统                      命令                
+|                 
+|1:社会工程学 Windows,Linux,Android     use exploit_social
+|2:网站克隆 Windows,Linux,Android       use web_clone  
+|3:Web控制台 Windows,Linux,Android      use shodan_search 
+|4:Shodan搜索 Windows,Linux,Android     use web_console  
+|5:恐吓 Windows,Linux,Android           use web_threaten 
+|6:病毒攻击 Windows,Linux,Android        use exploit_virus
+|7:Seeker-Master Linux,Android          use exploit_seeker
+|8:网页攻击 Windows,Linux,Android        use web_page_attack
+|9:请求工具 Windows,Linux,Android        use py_tools 
+|10:Ngrok Windows,Linux,Android         use ngrok
+|11:获取IP地址 Windows,Linux,Android     use web_ip
+|12:全球定位   Windows,Linux,Android     use web_gp
