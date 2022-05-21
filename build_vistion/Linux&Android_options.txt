@@ -1,0 +1,5 @@
+<Setool-Master>
+Linux and android can use all the tools in the setool-master
+
+https://github.com/LinWin-CLoud/
+https://gitee.com/LinWin-CLoud/
