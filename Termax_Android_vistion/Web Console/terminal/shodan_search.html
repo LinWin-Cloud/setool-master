@@ -1,0 +1,32 @@
+<body style="background-color: black;margin: 20px;padding: 0;">
+    <table>
+        <td>
+            <p style="color: green;">Setool-Master~/Main Console~/Web Console~/shodan_search//</p>
+        </td>
+        <td>
+            <input id="command" onkeydown="main()" style="width: 200px;height: 30px;font-size: 15px;border: none;outline: none;background-color: black;color: green;" />
+        </td>
+    </table>
+    <script>
+        function main()
+        {
+            var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+            if(keyCode == "13"){
+                var command = document.getElementById("command").value ;
+                if (command == "exit")
+                {
+                    //qiut the shodan_search
+                    window.location.href = "terminal.html" ;
+                    return true
+                }
+                else
+                {
+                    //use shodan_search command to search
+                    window.open("https://shodan.io/search?query="+command)
+                    console.log("command"+command)
+                    return true
+                }
+            }
+        }
+    </script>
+</body>
