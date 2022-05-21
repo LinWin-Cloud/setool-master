@@ -1,7 +1,7 @@
 # Setool Master
 
 ## 1. Never use Setool Master to attack a people you do not know ,or that you may be have a lot of tribble. 
-## 2. You can not use these resources code in business .
+   2. You can not use these resources code in business .
 
 ## About
 
