@@ -4,6 +4,17 @@
 2. You can not use these resources code in business .
 3. Auther:LinWinCloud
 
+1. 绝对不要使用Setool Master去攻击一个你不认识的人，或者你可能会遇到许麻烦
+
+# 更新
+ 1. v1.0 2022.1.5
+ 2. v2.1 2022.3.5
+ 3. v2.2.1 2022.5.1
+ 4. v2.3.2 2022.5.4
+ 5. v2.4.1 2022.5.7
+ 6. v2.4.2 2022.5.8
+ 7. v2.5.1 2022.5.15
+
 ## About
 
   Setool Master is a open resources social enginnering tools for linux.android(termux).
