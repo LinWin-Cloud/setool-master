@@ -5,6 +5,8 @@
 3. Auther:LinWinCloud
 
 1. 绝对不要使用Setool Master去攻击一个你不认识的人，或者你可能会遇到许麻烦
+2. 你不能将这些源代码用于商业用途
+3. 作者：LinWinCloud
 
 # 更新
  1. v1.0 2022.1.5
