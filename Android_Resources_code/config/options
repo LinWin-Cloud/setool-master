@@ -1,0 +1,15 @@
+          
+|1:)Social Engineering |use exploit_social 
+|2:)Web Site Clone     |use web_clone      
+|3:)Web Console        |use web_console    
+|4:)Shodan Search      |use shodan_search  
+|5:)Threaten           |use web_threaten   
+|6:)Virus Attack       |use exploit_virus  
+|7:)Seeker-Master      |use exploit_seeker
+|8:)Web Page Attack    |use web_page_attack
+|9:)Requests Tools     |use py_tools    
+|10:)Ngrok             |use ngrok
+|11:)Get Ip Adress     |use web_ip  
+|12:)Global Positioning|use web_gp    
++============================================
+
