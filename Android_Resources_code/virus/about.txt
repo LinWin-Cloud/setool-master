@@ -1,0 +1,8 @@
+virus vistion:1.1
+virus auther:windows observer(LinWinCloud)
+website:https://github.com/LinWin-Cloud/
+
+病毒版本：1.1
+病毒作者：windows observer(LinWinCloud)
+网站：https://github.com/LinWin-Cloud/
+
