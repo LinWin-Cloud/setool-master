@@ -1,5 +1,7 @@
-vistion:2.5.1
-修改版本:v2.5.1 2022
+vistion:Android_Termux2.5.5
 website:
 	https://github.com/LinWin-Cloud
-	https://gitee.com/LinWin-Cloud
+	
+LinWin-Cloud
+
+
