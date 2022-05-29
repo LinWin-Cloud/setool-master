@@ -1,4 +1,5 @@
-vistion:2.1.1
+vistion:Android_Termux_1.5.5
 website:
 	https://github.com/LinWin-Cloud
-	https://gitee.com/LinWin-Cloud
+
+Auther:LinWin-Cloud
