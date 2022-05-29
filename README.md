@@ -1,24 +1,23 @@
 # Setool Master
 
-1. Never use Setool Master to attack a people you do not know ,or that you may be have a lot of tribble. 
-2. You can not use these resources code in business .
-3. Auther:LinWinCloud
-
 1. 绝对不要使用Setool Master去攻击一个你不认识的人，或者你可能会遇到许麻烦
 2. 你不能将这些源代码用于商业用途
-3. 作者：LinWinCloud
+3. 本开源项目内包含第三方工具，在这里说说明：ngrok，seeker-master
+4. 本开源项目允许引用，但受到Apache2开源条约限制
+5. 作者：LinWinCloud
 
 # 更新日志
  1. v1.0 2022.1.5 发布Setool Linux轻量个人版本
  2. v2.1 2022.3.5 发布Setool Master专业个人版本
  3. v2.2.1 2022.5.1 修改部分源代码
  4. v2.3.2 2022.5.4 修改配置文件
- 5. v2.4.1 2022.5.7 修改配置文件
+ 5. v2.4.1 2022.5.7 修改配置文件，更新版本信息
  6. v2.4.2 2022.5.8 修改配置文件和源代码
  7. v2.5.1 2022.5.15 发布安卓Termux编译版本
  8. v2.5.2 2022.5.17 更新安卓Termux编译版本
  9. v2.5.3 2022.5.19 更新部分源代码
- 10. v2.6.1 2022.5.28 发布安卓Termux源代码版本
+ 10. v2.5.4 2022.5.28 发布安卓Termux源代码版本
+ 11. v2.5.5 2022.5.29 更新版本信息
 
 ## About
 
