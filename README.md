@@ -33,6 +33,8 @@ resources code to make a new tools and so on.If you want to run Setool-Master,yo
 
 goto https://github.com/LinWin-Cloud/setool-master. https://gitee.com/LinWin-CLoud/setool-master
 
+Setool Master是一个适用于Linux、Android（termux）的开源的社会工程学工具。它是免费的。你不需要为这些工具支付费用。
+
 ## Install
 
     # Methed1:
