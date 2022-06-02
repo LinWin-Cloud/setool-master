@@ -40,27 +40,9 @@ Setool Master是一个适用于Linux、Android（termux）的开源的社会工�
 Setool Master使用Python编程语言。非常简单并且有趣，你能用这些源代码去创造一个新的工具等等。如果你想获取SetoolMaster，
 你能够访问https://github.com/LinWin-Cloud/setool-master. https://gitee.com/LinWin-CLoud/setool-master
 
-## Install
-
-    # Methed1:
-        1:You can visit url:https://github.com/LinWin-CLoud/setool-master
-        
-        2:Download the resources code to local.
-        3:Than give all the file read and write permissions.
-            (you can input in terminal:sudo chmod 777 [flond name]/*)
-            (must get permissions to all the file,or will be Running Error)
-        4:input in the terminal:python3 setool.py -t manual
-            than you can run Setool-Master
-            
-    # Method2:
-        1:You can visit url:https://gitee.com/LinWin-CLoud/setool-master/
-        
-        2:You can chose vistion:
-            1:)resources code install
-                if you chose this vistion ,download , than look for Method1
-            2:)install software install
-                if you chose  this vistion,goto content flond,than input in terminal:
-                chmod 777 install_linux && ./install_linux
-            3:)build vistion install
-                if you chose this vistion,give write and read permissions to all the file,
-                than tou can run Setool-Master in terminal:./setool
+## 安装
+1. 安卓编译版本：源文件丢失即可，在termux终端内运行命令./setool
+2. 安卓源代码版本：源文件不丢失即可，在termux终端内运行命令:python3 setool.py
+3. 安装包版本：只能在Linux下使用，需要给予所有权限给目录，进入软件目录运行安装程序即可
+4. 预编译版本：源文件不丢失即可，在终端内输入:./setool
+5. 源代码：直接在Python3环境下运行，终端内输入:python3 setool.py
