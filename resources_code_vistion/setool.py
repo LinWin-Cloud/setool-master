@@ -70,7 +70,7 @@ def main():
         payload_py_tools()
         main()   #reture to the main function
         return True
-
+ 
     if options == "use web_page_attack": #use the payload:web_page_attack
         import web_page_attack as web_page_attack
         web_page_attack.attack()
