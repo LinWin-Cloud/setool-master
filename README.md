@@ -9,6 +9,9 @@
 # 使用文档
 <li>1. <a href='https://github.com/LinWin-Cloud/setool-master/blob/main/使用帮助（英文版本）.md'>使用文档（英文版本）</a></li>
 
+# 注意
+1. 本工具集内Web Console密码linwin用户名linwin
+
 # 更新日志
  1. v1.0.0 2022.1.5 发布Setool Linux轻量个人版本
  2. v2.1.1 2022.3.5 发布Setool Master源代码版本
