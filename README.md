@@ -73,10 +73,3 @@ goto https://github.com/LinWin-Cloud/setool-master. https://gitee.com/LinWin-CLo
 Setool Master是一个适用于Linux、Android（termux）的开源的社会工程学工具。它是免费的。你不需要为这些工具支付费用。
 Setool Master使用Python编程语言。非常简单并且有趣，你能用这些源代码去创造一个新的工具等等。如果你想获取SetoolMaster，
 你能够访问https://github.com/LinWin-Cloud/setool-master. https://gitee.com/LinWin-CLoud/setool-master
-
-## 安装
-1. 安卓编译版本：源文件丢失即可，在termux终端内运行命令./setool
-2. 安卓源代码版本：源文件不丢失即可，在termux终端内运行命令:python3 setool.py
-3. 安装包版本：只能在Linux下使用，需要给予所有权限给目录，进入软件目录运行安装程序即可
-4. 预编译版本：源文件不丢失即可，在终端内输入:./setool
-5. 源代码：直接在Python3环境下运行，终端内输入:python3 setool.py
