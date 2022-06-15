@@ -6,6 +6,27 @@
 4. 本开源项目允许引用，但受到Apache2开源条约限制
 5. 作者：LinWinCloud
 
+# 安装教程
+$ cd setool-master
+$ pip3 install whois
+$ pip3 install requests
+
+1.源代码版本、安卓源代码版本
+$ cd resources_code_vistion （这个是源代码版本） 或者 cd Android_Resources_code
+$ python3 setool.py
+
+2.Linux安装包版本
+$ 7z x Setool-Master.7z
+$ cd Setool-Master
+$ cd Setool-Master
+$ python3 install_linux.py
+软件将安装在/var/Setool-Master，环境请自行配置
+
+3.编译版本、安卓编译版本
+$ cd build_vistion（这个是编译版本） 或者 cd Termax_Android_vistion （这个是安卓编译版本）
+$ chmod +x ./setool
+$ bash ./setool
+
 # 使用文档
 <li>1. <a href='https://github.com/LinWin-Cloud/setool-master/blob/main/使用帮助（英文版本）.md'>使用文档（英文版本）</a></li>
 
@@ -36,6 +57,7 @@
  21. v2.6.2 2022.6.11 更新版本信息、配置信息
  22. v2.6.2 2022.6.12 更新配置文件
  23. v2.6.3 2022.6.13 更新 安卓源代码版本 源代码
+ 24. v2.6.4 2022.6.15 更新使用文档、配置文件
 
 ## About
 
