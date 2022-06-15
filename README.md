@@ -7,25 +7,25 @@
 5. 作者：LinWinCloud
 
 # 安装教程
-$ cd setool-master
-$ pip3 install whois
-$ pip3 install requests
+$ cd setool-master<br />
+$ pip3 install whois<br />
+$ pip3 install requests<br />
 
 1.源代码版本、安卓源代码版本
-$ cd resources_code_vistion （这个是源代码版本） 或者 cd Android_Resources_code
-$ python3 setool.py
+$ cd resources_code_vistion （这个是源代码版本） 或者 cd Android_Resources_code<br />
+$ python3 setool.py<br />
 
 2.Linux安装包版本
-$ 7z x Setool-Master.7z
-$ cd Setool-Master
-$ cd Setool-Master
-$ python3 install_linux.py
-软件将安装在/var/Setool-Master，环境请自行配置
+$ 7z x Setool-Master.7z<br />
+$ cd Setool-Master<br />
+$ cd Setool-Master<br />
+$ python3 install_linux.py<br />
+软件将安装在/var/Setool-Master，环境请自行配置<br />
 
 3.编译版本、安卓编译版本
-$ cd build_vistion（这个是编译版本） 或者 cd Termax_Android_vistion （这个是安卓编译版本）
-$ chmod +x ./setool
-$ bash ./setool
+$ cd build_vistion（这个是编译版本） 或者 cd Termax_Android_vistion （这个是安卓编译版本）<br />
+$ chmod +x ./setool<br />
+$ bash ./setool<br />
 
 # 使用文档
 <li>1. <a href='https://github.com/LinWin-Cloud/setool-master/blob/main/使用帮助（英文版本）.md'>使用文档（英文版本）</a></li>
