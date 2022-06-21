@@ -29,6 +29,7 @@ $ bash ./setool<br />
 
 # 使用文档
 <li>1. <a href='https://github.com/LinWin-Cloud/setool-master/blob/main/Help(English).md'>使用文档（英文版本）</a></li>
+<li>2. <a href='https://github.com/LinWin-Cloud/setool-master/blob/main/%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87.md'>使用文档（中文版本）</a></li>
 
 # 注意
 1. 本工具集内Web Console密码linwin用户名linwin
