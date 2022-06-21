@@ -28,7 +28,7 @@ $ chmod +x ./setool<br />
 $ bash ./setool<br />
 
 # 使用文档
-<li>1. <a href='https://github.com/LinWin-Cloud/setool-master/blob/main/Help(Endlish).md'>使用文档（英文版本）</a></li>
+<li>1. <a href='[https://github.com/LinWin-Cloud/setool-master/blob/main/Help(Endlish).md](https://github.com/LinWin-Cloud/setool-master/blob/main/Help(English).md)'>使用文档（英文版本）</a></li>
 
 # 注意
 1. 本工具集内Web Console密码linwin用户名linwin
