@@ -84,6 +84,12 @@ resources code to make a new tools and so on.If you want to get Setool-Master,yo
 
 goto https://github.com/LinWin-Cloud/setool-master. https://gitee.com/LinWin-CLoud/setool-master
 
-Setool Master是一个适用于Linux、Android（termux）的开源的社会工程学工具。它是免费的。你不需要为这些工具支付费用。
-Setool Master使用Python编程语言。非常简单并且有趣，你能用这些源代码去创造一个新的工具等等。如果你想获取SetoolMaster，
-你能够访问https://github.com/LinWin-Cloud/setool-master. https://gitee.com/LinWin-CLoud/setool-master
+Setool Master是一个适用于Linux、Android（termux）的开源的社会工程学
+<br />
+工具。它是免费的。你不需要为这些工具支付费用。Setool Master使用Python
+<br />
+编程语言。非常简单并且有趣，你能用这些源代码去创造一个新的工具等等。如果你
+<br />
+想获取SetoolMaster，你能够访问
+<br />
+https://github.com/LinWin-Cloud/setool-master. https://gitee.com/LinWin-CLoud/setool-master
