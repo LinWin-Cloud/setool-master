@@ -94,3 +94,11 @@ Setool Master是一个适用于Linux、Android（termux）的开源的社会工�
 想获取SetoolMaster，你能够访问
 <br />
 https://github.com/LinWin-Cloud/setool-master. https://gitee.com/LinWin-CLoud/setool-master
+
+# 该项目会持续维护，吸收大家的建议
+项目维护真的不容易，开源项目不赚钱，本项目将保证永远也不进行商业收费
+<br />
+真心希望屏幕前面的你能够给开发者一些动力来维护更新这更好的项目
+<br />
+捐赠 1 元 人民币，给开发者一些动力，您可以选择忽略。项目同样会维护和更新，您依旧可以像原来那样操作本项目。
+<img src='' />
