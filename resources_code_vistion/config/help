@@ -27,4 +27,10 @@ Enter:payload [payload name] -info
 
 Enter:exit
     qiut the setool-master
+    
+Enter:set language
+    setting your language of the setool master.Chinese or English
+
+Enter:setool -vistion
+    show the vistion info
 =================================================
