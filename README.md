@@ -22,6 +22,7 @@ linux的也能快速掌握。使用python3开发，有更加良好的发展属�
 5. 源代码        持续维护 V
 
 # 安装教程
+$ git clone https://github.com/LinWin-Cloud/setool-master
 $ cd setool-master<br />
 $ pip3 install whois<br />
 $ pip3 install requests<br />
