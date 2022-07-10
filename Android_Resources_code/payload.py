@@ -6,7 +6,7 @@ from operator import truediv
 
 def payload_web_page_attack():
     #read the language config
-    lang = open("config/lang" , "r+")
+    lang = open("config/lang" , "r+") 
     langset = lang.read()
     if langset == "zh-cn":
         #chinese
