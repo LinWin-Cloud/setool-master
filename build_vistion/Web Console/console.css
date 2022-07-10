@@ -9,7 +9,7 @@
 .terminal
 {
     width: 85px;
-    height: 85px;
+    height: 85px; 
     border: green solid 1px;
     background-color: black;
 }
