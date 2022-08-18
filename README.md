@@ -5,9 +5,9 @@
 - Setool支持跨平台运行帮助红队工程师远程便捷协作
 - Setool当前已集成多种模块,覆盖社会工程学需求工具
 - Setool目标是帮助红队工程师提高攻击效率,简化操作,降低技术门槛
- <br>
+
  ![Setool](image/Setool.png)
-简体中文 | [English](./README_EN.md)
+简体中文|[English](./README_EN.md)
 
 # 更新日志
 
