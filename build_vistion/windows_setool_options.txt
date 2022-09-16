@@ -1,9 +1,0 @@
-windows os can use these tools
-1:Social Engineering
-2:Web Site Clone
-3:Web Console 
-4:Shodan Search
-5:threaten   
-6:Virus Attack
-7:Web Page Attack
-8:Requests Tools 

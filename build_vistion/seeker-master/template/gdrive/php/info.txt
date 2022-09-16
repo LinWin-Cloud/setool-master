@@ -1,1 +1,0 @@
-{"dev":[{"platform":"Linux x86_64","browser":"Chrome\/100.0.4896.127","cores":"2","ram":"4","vendor":"Google Inc. (Intel)","render":"ANGLE (Intel, Mesa Intel(R) HD Graphics 510 (SKL GT1), OpenGL 4.6)","ip":"101.224.222.215","ht":"900","wd":"1440","os":"Linux x86_64"}]}
