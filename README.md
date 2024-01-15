@@ -1,11 +1,11 @@
 # Setool Master
 
-SetoolMaster是一款让你入门即入狱的python3开发的进阶型社会工程学工具。包括了全球定位、Ngrok内网穿透、Seeker高精度定位、网页钓鱼、病毒攻击、恐吓勒索信、爬虫、网站克隆、物联网设备搜索等，同时拥有中文支持，内置大量钓鱼模板，设计用于组织级别红队渗透测试，用于团队组织设备型协同，经过非常多的实战演练，效果出众，远超同行产品
+`SetoolMaster`是一款让你入门即入狱的python3开发的进阶型社会工程学工具。包括了全球定位、Ngrok内网穿透、Seeker高精度定位、网页钓鱼、病毒攻击、恐吓勒索信、爬虫、网站克隆、物联网设备搜索等，同时拥有中文支持，内置大量钓鱼模板，设计用于组织级别红队渗透测试，用于团队组织设备型协同，经过非常多的实战演练，效果出众，远超同行产品
 
 你看过电影里面的黑客么，手指在键盘上不停的在打字，屏幕上运行的数不清的计算机命令，<br />
 没过一会儿，便可以入侵、盗取别人的计算机密码、QQ和微信等。<br />
 
-没错,Setool Master就是这样一款黑客工具，设计用于红队的社会工程学攻击。比起传统<br />
+没错,`Setool Master`就是这样一款黑客工具，设计用于红队的社会工程学攻击。比起传统<br />
 的漏洞利用，社会工程学攻击会更加的高效和安全，而且对于使用者的门槛会非常低，入门<br />
 linux的也能快速掌握。使用python3开发，有更加良好的发展属性和可读性、运行效率<br />
 非常的高，设计用于对组织级别的攻击
@@ -24,26 +24,34 @@ linux的也能快速掌握。使用python3开发，有更加良好的发展属�
 5. 源代码        持续维护 V
 
 # 安装教程
-$ git clone https://github.com/LinWin-Cloud/setool-master
-$ cd setool-master<br />
-$ pip3 install whois<br />
-$ pip3 install requests<br />
+```bash
+git clone https://github.com/LinWin-Cloud/setool-master
+cd setool-master
+pip3 install whois
+pip3 install requests
+```
 
 1.源代码版本、安卓源代码版本
-$ cd resources_code_vistion （这个是源代码版本） 或者 cd Android_Resources_code<br />
-$ python3 setool.py<br />
+```bash
+cd resources_code_vistion （这个是源代码版本） 或者 cd Android_Resources_code
+python3 setool.py
+```
 
 2.Linux安装包版本
-$ 7z x Setool-Master.7z<br />
-$ cd Setool-Master<br />
-$ cd Setool-Master<br />
-$ python3 install_linux.py<br />
-软件将安装在/var/Setool-Master，环境请自行配置<br />
+```bash
+7z x Setool-Master.7z
+cd Setool-Master
+cd Setool-Master
+python3 install_linux.py
+```
+软件将安装在 `/var/Setool-Master`，环境请自行配置<br />
 
 3.编译版本、安卓编译版本
-$ cd build_vistion（这个是编译版本） 或者 cd Termax_Android_vistion （这个是安卓编译版本）<br />
-$ chmod +x ./setool<br />
-$ bash ./setool<br />
+```bash
+cd build_vistion（这个是编译版本） 或者 cd Termax_Android_vistion （这个是安卓编译版本）
+chmod +x ./setool<br />
+bash ./setool
+```
 
 # 使用文档
 <li>1. <a href='https://github.com/LinWin-Cloud/setool-master/blob/main/Help(English).md'>使用文档（英文版本）</a></li>
